@@ -1,7 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Samuel Dingamo!
 
 ---
-Versatile and results-driven Data Analyst with a solid foundation in Full Stack Development, bringing two years of hands-on experience in leveraging data to drive informed business decisions. Proficient in extracting, cleaning, and analyzing data from diverse sources, coupled with a robust technical background encompassing both front-end and back-end development. Known for delivering actionable insights and implementing data-driven solutions that optimize operational efficiency and enhance business performance. Adept at utilizing a variety of programming languages, databases, and analytical tools to uncover patterns and trends. Proven ability to communicate complex technical findings to non-technical stakeholders, fostering cross-functional collaboration. Committed to continuous learning and staying abreast of the latest trends in data analytics and technology. Seeking opportunities to contribute expertise in both data analysis and Full Stack Development to drive innovation and success for forward-thinking organizations. 
+
+####### Adaptable and results-oriented Data analyst with two years of practical expertise using data to inform business choices, and a strong foundation in Full Stack Development. able to extract, clean, and analyze data from a variety of sources and has a strong technical experience in front-end and back-end development. renowned for providing insights that can be put into practice and for putting data-driven solutions into practice that improve corporate performance and operational efficiency. competent in using a range of databases, analytic tools, and computer languages to find patterns and trends. demonstrated capacity to create cross-functional collaboration by explaining complicated technical results to stakeholders who are not technical. devoted to lifelong learning and keeping up with the most recent developments in technology and data analytics. Looking for chances to share my knowledge on Full Stack Development and data analysis 
+
+
 ---
 
 🧰 Toolbox
