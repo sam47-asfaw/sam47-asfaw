@@ -6,7 +6,7 @@ Versatile and results-driven Data Analyst with a solid foundation in Full Stack 
 🧰 Toolbox
 
 
-<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg?plain=1" width=30px>
+<img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg?plain=1" width=30px>  <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain.svg?plain=1" width=30px>  <i
 <!--
 **sam47-asfaw/sam47-asfaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
