@@ -1,8 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Samuel Dingamo!
+#### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Samuel Dingamo!
 
 ---
 
-###### Adaptable and results-oriented Data analyst with two years of practical expertise using data to inform business choices, and a strong foundation in Full Stack Development. able to extract, clean, and analyze data from a variety of sources and has a strong technical experience in front-end and back-end development. renowned for providing insights that can be put into practice and for putting data-driven solutions into practice that improve corporate performance and operational efficiency. competent in using a range of databases, analytic tools, and computer languages to find patterns and trends. demonstrated capacity to create cross-functional collaboration by explaining complicated technical results to stakeholders who are not technical. devoted to lifelong learning and keeping up with the most recent developments in technology and data analytics. Looking for chances to share my knowledge on Full Stack Development and data analysis 
+
+##### Adaptable and results-oriented Data analyst with two years of practical expertise using data to inform business choices, and a strong foundation in Full Stack Development. able to extract, clean, and analyze data from a variety of sources and has a strong technical experience in front-end and back-end development. renowned for providing insights that can be put into practice and for putting data-driven solutions into practice that improve corporate performance and operational efficiency. competent in using a range of databases, analytic tools, and computer languages to find patterns and trends. demonstrated capacity to create cross-functional collaboration by explaining complicated technical results to stakeholders who are not technical. devoted to lifelong learning and keeping up with the most recent developments in technology and data analytics. Looking for chances to share my knowledge on Full Stack Development and data analysis 
 
 
 ---
